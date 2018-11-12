@@ -1,4 +1,6 @@
 # youtube-dl-android
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftastelessjolt%2Fyoutube-dl-android.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftastelessjolt%2Fyoutube-dl-android?ref=badge_shield)
+
 
 ## Implementation of youtube-dl in Android/Java
 
@@ -16,3 +18,7 @@ If it doesn't work for any link, please raise an Issue with the link.
 ## Credits
 [youtube dl](https://github.com/rg3/youtube-dl)  
 [Storage Chooser](https://github.com/codekidX/storage-chooser)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftastelessjolt%2Fyoutube-dl-android.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftastelessjolt%2Fyoutube-dl-android?ref=badge_large)
